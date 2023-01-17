@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = empty-project-type
+recent_files = ['timeseries_data\\full_kinematic_script.py', 'pathes.py', 'feature_calculations\\read_features.py', 'Raw_Data\\configurations.py', 'Raw_Data\\answers\\read_answers.py', 'Raw_Data\\trials\\read_trials.py', 'Raw_Data\\tracker_data\\read_trackers.py', 'Raw_Data\\integration.py', 'Raw_Data\\tracker_data\\tracker_preprocessing.py', 'Raw_Data\\to_ts_script.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
